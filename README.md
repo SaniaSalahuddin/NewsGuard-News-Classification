@@ -73,7 +73,7 @@ Fake-News-Detection/
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/SaniaSalahuddin/fake-news-detection.git
+git clone https://github.com/SaniaSalahuddin/NewsGuard-News-Classification.git
 
 2. Open the project
 cd fake-news-detection
